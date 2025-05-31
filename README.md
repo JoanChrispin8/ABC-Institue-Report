@@ -66,31 +66,31 @@ Counted based on issuance flag or column in the dataset.
 
 👥 Count of Courses by Age Group: 
 
-    ->Chart displaying course popularity across age groups.
+   ->Chart displaying course popularity across age groups.
 
    ![Image](https://github.com/user-attachments/assets/53a1ce09-c24d-4b1e-a16d-9db132c3a5eb)
 
 🧾 Certificates Issued: 
 
-    ->Visual showing the number of certifications awarded.
+   ->Visual showing the number of certifications awarded.
 
    ![Image](https://github.com/user-attachments/assets/5ebc0b6b-7c6d-4a20-acce-ca24bc2a322f)
 
 💰 Sum of Fees by Course: 
 
-    ->Chart comparing total fees collected per course.
+   ->Chart comparing total fees collected per course.
 
    ![Image](https://github.com/user-attachments/assets/ce25dc5b-2688-42a9-9991-a6bd6b227863)
 
 📈 Total Fees: 
 
-    ->Card displaying overall revenue.
+   ->Card displaying overall revenue.
 
    ![Image](https://github.com/user-attachments/assets/9db905e6-5845-41a7-820c-ab02041e131c)
 
 👨‍🎓 Total Students: 
 
-    ->Card showing total number of students.
+   ->Card showing total number of students.
 
    ![Image](https://github.com/user-attachments/assets/5db785db-ac6d-4800-b538-5ee98f3fd0d0)
 
@@ -115,16 +115,17 @@ Counted based on issuance flag or column in the dataset.
 
 📊 Key Insights:
 
-Total Students: [Insert number]
+Total Students: 772
 
-Total Fees Collected: ₹[Insert value]
+Total Fees Collected: ₹ 6,877.50
 
-Popular Courses: [Insert list if known]
+Popular Courses: MS EXCEL
 
-Top Cities by Enrollment: [Insert list]
+Top Cities by Enrollment: PONDICHERRY
 
-Most Active Months: [Insert months]
+Most Active Months: SEPTEMBER
 
-Age Group with Most Enrollments: [Insert age group]
+Age Group with Most Enrollments: 20-29
 
-Certificates Issued: [Insert total]
+Certificates Issued: 504
+
