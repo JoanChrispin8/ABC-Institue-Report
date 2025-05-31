@@ -62,51 +62,51 @@ Counted based on issuance flag or column in the dataset.
 
    ->Bar/line chart showing how many courses were conducted per month.
 
-     ![Image](https://github.com/user-attachments/assets/40fda9ab-c2d3-49e5-ad53-d39185160e5b)   
+   ![Image](https://github.com/user-attachments/assets/40fda9ab-c2d3-49e5-ad53-d39185160e5b)   
 
 👥 Count of Courses by Age Group: 
 
     ->Chart displaying course popularity across age groups.
 
-     ![Image](https://github.com/user-attachments/assets/53a1ce09-c24d-4b1e-a16d-9db132c3a5eb)
+   ![Image](https://github.com/user-attachments/assets/53a1ce09-c24d-4b1e-a16d-9db132c3a5eb)
 
 🧾 Certificates Issued: 
 
     ->Visual showing the number of certifications awarded.
 
-      ![Image](https://github.com/user-attachments/assets/5ebc0b6b-7c6d-4a20-acce-ca24bc2a322f)
+   ![Image](https://github.com/user-attachments/assets/5ebc0b6b-7c6d-4a20-acce-ca24bc2a322f)
 
 💰 Sum of Fees by Course: 
 
     ->Chart comparing total fees collected per course.
 
-      ![Image](https://github.com/user-attachments/assets/ce25dc5b-2688-42a9-9991-a6bd6b227863)
+   ![Image](https://github.com/user-attachments/assets/ce25dc5b-2688-42a9-9991-a6bd6b227863)
 
 📈 Total Fees: 
 
     ->Card displaying overall revenue.
 
-      ![Image](https://github.com/user-attachments/assets/9db905e6-5845-41a7-820c-ab02041e131c)
+   ![Image](https://github.com/user-attachments/assets/9db905e6-5845-41a7-820c-ab02041e131c)
 
 👨‍🎓 Total Students: 
 
     ->Card showing total number of students.
 
-      ![Image](https://github.com/user-attachments/assets/5db785db-ac6d-4800-b538-5ee98f3fd0d0)
+   ![Image](https://github.com/user-attachments/assets/5db785db-ac6d-4800-b538-5ee98f3fd0d0)
 
 🗓️ Year-wise Distribution:
 
-      ![Image](https://github.com/user-attachments/assets/eeff7eca-5e37-46e1-9a70-95dead527e2c)
+   ![Image](https://github.com/user-attachments/assets/eeff7eca-5e37-46e1-9a70-95dead527e2c)
 
 
 🌆 City-wise Distribution:
 
-      ![Image](https://github.com/user-attachments/assets/1b65b104-7345-4c2b-b869-2518ebad93ee)
+   ![Image](https://github.com/user-attachments/assets/1b65b104-7345-4c2b-b869-2518ebad93ee)
 
 
 📘 Course:
 
-      ![Image](https://github.com/user-attachments/assets/d4918f58-75d6-45d3-a64c-9d9b3a2dbe45)
+   ![Image](https://github.com/user-attachments/assets/d4918f58-75d6-45d3-a64c-9d9b3a2dbe45)
 
 
 9.Publishing:
