@@ -1,6 +1,6 @@
-# Unknown Arts and SCience-Institue-Report
+# Unknown Arts and SCience-College-Report
 
-ABC-Institue-Report
+Unknown Arts and SCience-College-Report
 🔗 Dashboard Link: https://drive.google.com/file/d/1YWvmMwyYZlG_dPaip-Tg_ucQVpV1n_Cg/view?usp=sharing
 
 This dashboard was developed for ABC Institute to analyze and monitor key academic and operational metrics. It provides visibility into course enrollments, student demographics, financial insights, and certification trends. These insights help the institution optimize course offerings, improve student engagement, and manage finances effectively.
